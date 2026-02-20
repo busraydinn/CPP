@@ -4,3 +4,4 @@
 - Projeler, console tabanlı uygulamalar, multithreading, STL kullanımı ve modern C++ teknikleri içermektedir.
 
 1. [CPP Nedir ?](https://github.com/busraydinn/CPP/blob/main/CPP_Nedir.md)
+2. [ Const vs Constexpr (C++)](https://github.com/busraydinn/CPP/blob/main/CPP_Const_vs_Constexpr.md)
